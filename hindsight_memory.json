@@ -1,0 +1,295 @@
+{
+  "Left:FOUR_FINGERS": {
+    "base_prediction": "FOUR_FINGERS",
+    "learned_meaning": "SUPERBBBB",
+    "corrections": 3,
+    "first_seen": "2026-04-15 14:07:28",
+    "last_updated": "2026-04-15 14:22:33",
+    "history": [
+      {
+        "corrected_from": "FOUR_FINGERS",
+        "corrected_to": "FOUR_FINGERS",
+        "timestamp": "2026-04-15 14:07:28"
+      },
+      {
+        "corrected_from": "FOUR_FINGERS",
+        "corrected_to": "Done",
+        "timestamp": "2026-04-15 14:16:40"
+      },
+      {
+        "corrected_from": "FOUR_FINGERS",
+        "corrected_to": "SUPERBBBB",
+        "timestamp": "2026-04-15 14:22:33"
+      }
+    ]
+  },
+  "Right:FOUR_FINGERS": {
+    "base_prediction": "FOUR_FINGERS",
+    "learned_meaning": "OkAYY",
+    "corrections": 3,
+    "first_seen": "2026-04-15 14:16:03",
+    "last_updated": "2026-04-15 19:38:44",
+    "history": [
+      {
+        "corrected_from": "FOUR_FINGERS",
+        "corrected_to": "like it",
+        "timestamp": "2026-04-15 14:16:03"
+      },
+      {
+        "corrected_from": "FOUR_FINGERS",
+        "corrected_to": "SUPERBB",
+        "timestamp": "2026-04-15 14:19:12"
+      },
+      {
+        "corrected_from": "FOUR_FINGERS",
+        "corrected_to": "OkAYY",
+        "timestamp": "2026-04-15 19:38:44"
+      }
+    ]
+  },
+  "Left:PEACE": {
+    "base_prediction": "PEACE",
+    "learned_meaning": "CHILLAX",
+    "corrections": 1,
+    "first_seen": "2026-04-15 14:17:14",
+    "last_updated": "2026-04-15 14:17:14",
+    "history": [
+      {
+        "corrected_from": "PEACE",
+        "corrected_to": "CHILLAX",
+        "timestamp": "2026-04-15 14:17:14"
+      }
+    ]
+  },
+  "Left:THREE_FINGERS": {
+    "base_prediction": "THREE_FINGERS",
+    "learned_meaning": "I Love you too",
+    "corrections": 3,
+    "first_seen": "2026-04-15 14:20:21",
+    "last_updated": "2026-04-15 19:36:54",
+    "history": [
+      {
+        "corrected_from": "THREE_FINGERS",
+        "corrected_to": "I love you",
+        "timestamp": "2026-04-15 14:20:21"
+      },
+      {
+        "corrected_from": "THREE_FINGERS",
+        "corrected_to": "3",
+        "timestamp": "2026-04-15 14:26:47"
+      },
+      {
+        "corrected_from": "THREE_FINGERS",
+        "corrected_to": "I Love you too",
+        "timestamp": "2026-04-15 19:36:54"
+      }
+    ]
+  },
+  "Right:THREE_FINGERS": {
+    "base_prediction": "THREE_FINGERS",
+    "learned_meaning": "I Love You",
+    "corrections": 1,
+    "first_seen": "2026-04-15 14:20:50",
+    "last_updated": "2026-04-15 14:20:50",
+    "history": [
+      {
+        "corrected_from": "THREE_FINGERS",
+        "corrected_to": "I Love You",
+        "timestamp": "2026-04-15 14:20:50"
+      }
+    ]
+  },
+  "Left:FIST_Right:THUMBS_UP": {
+    "base_prediction": "THUMBS_UP_FIST",
+    "learned_meaning": "HEART",
+    "corrections": 1,
+    "first_seen": "2026-04-15 14:21:32",
+    "last_updated": "2026-04-15 14:21:32",
+    "history": [
+      {
+        "corrected_from": "THUMBS_UP_FIST",
+        "corrected_to": "HEART",
+        "timestamp": "2026-04-15 14:21:32"
+      }
+    ]
+  },
+  "Left:CHILL": {
+    "base_prediction": "CHILL",
+    "learned_meaning": "RUKKOOOOO",
+    "corrections": 1,
+    "first_seen": "2026-04-15 14:23:31",
+    "last_updated": "2026-04-15 14:23:31",
+    "history": [
+      {
+        "corrected_from": "CHILL",
+        "corrected_to": "RUKKOOOOO",
+        "timestamp": "2026-04-15 14:23:31"
+      }
+    ]
+  },
+  "Right:CHILL": {
+    "base_prediction": "CHILL",
+    "learned_meaning": "BSSS KROO",
+    "corrections": 1,
+    "first_seen": "2026-04-15 14:24:05",
+    "last_updated": "2026-04-15 14:24:05",
+    "history": [
+      {
+        "corrected_from": "CHILL",
+        "corrected_to": "BSSS KROO",
+        "timestamp": "2026-04-15 14:24:05"
+      }
+    ]
+  },
+  "Left:THREE_UP": {
+    "base_prediction": "THREE_UP",
+    "learned_meaning": "3",
+    "corrections": 1,
+    "first_seen": "2026-04-15 14:26:04",
+    "last_updated": "2026-04-15 14:26:04",
+    "history": [
+      {
+        "corrected_from": "THREE_UP",
+        "corrected_to": "3",
+        "timestamp": "2026-04-15 14:26:04"
+      }
+    ]
+  },
+  "Left:THUMBS_UP": {
+    "base_prediction": "THUMBS_UP",
+    "learned_meaning": "dislike",
+    "corrections": 2,
+    "first_seen": "2026-04-15 14:28:11",
+    "last_updated": "2026-04-15 15:50:46",
+    "history": [
+      {
+        "corrected_from": "THUMBS_UP",
+        "corrected_to": "Thumbs Uppp",
+        "timestamp": "2026-04-15 14:28:11"
+      },
+      {
+        "corrected_from": "THUMBS_UP",
+        "corrected_to": "dislike",
+        "timestamp": "2026-04-15 15:50:46"
+      }
+    ]
+  },
+  "Right:FIST": {
+    "base_prediction": "FIST",
+    "learned_meaning": "go that way",
+    "corrections": 2,
+    "first_seen": "2026-04-15 15:17:40",
+    "last_updated": "2026-04-15 19:36:17",
+    "history": [
+      {
+        "corrected_from": "FIST",
+        "corrected_to": "Thinking Deeply",
+        "timestamp": "2026-04-15 15:17:40"
+      },
+      {
+        "corrected_from": "FIST",
+        "corrected_to": "go that way",
+        "timestamp": "2026-04-15 19:36:17"
+      }
+    ]
+  },
+  "Right:THUMBS_UP": {
+    "base_prediction": "THUMBS_UP",
+    "learned_meaning": "nopee",
+    "corrections": 3,
+    "first_seen": "2026-04-15 15:18:48",
+    "last_updated": "2026-04-15 19:37:28",
+    "history": [
+      {
+        "corrected_from": "THUMBS_UP",
+        "corrected_to": "Dislike",
+        "timestamp": "2026-04-15 15:18:48"
+      },
+      {
+        "corrected_from": "THUMBS_UP",
+        "corrected_to": "accept",
+        "timestamp": "2026-04-15 17:03:35"
+      },
+      {
+        "corrected_from": "THUMBS_UP",
+        "corrected_to": "nopee",
+        "timestamp": "2026-04-15 19:37:28"
+      }
+    ]
+  },
+  "Left:TWO_FINGERS_Right:THUMBS_UP": {
+    "base_prediction": "THUMBS_UP_TWO_FINGERS",
+    "learned_meaning": "Sweet",
+    "corrections": 1,
+    "first_seen": "2026-04-15 15:47:39",
+    "last_updated": "2026-04-15 15:47:39",
+    "history": [
+      {
+        "corrected_from": "THUMBS_UP_TWO_FINGERS",
+        "corrected_to": "Sweet",
+        "timestamp": "2026-04-15 15:47:39"
+      }
+    ]
+  },
+  "Right:PEACE": {
+    "base_prediction": "PEACE",
+    "learned_meaning": "KYAA HAI",
+    "corrections": 1,
+    "first_seen": "2026-04-15 15:51:40",
+    "last_updated": "2026-04-15 15:51:40",
+    "history": [
+      {
+        "corrected_from": "PEACE",
+        "corrected_to": "KYAA HAI",
+        "timestamp": "2026-04-15 15:51:40"
+      }
+    ]
+  },
+  "Left:TWO_FINGERS": {
+    "base_prediction": "TWO_FINGERS",
+    "learned_meaning": "thoda sa",
+    "corrections": 2,
+    "first_seen": "2026-04-15 17:05:31",
+    "last_updated": "2026-04-15 17:06:37",
+    "history": [
+      {
+        "corrected_from": "TWO_FINGERS",
+        "corrected_to": "one sided love",
+        "timestamp": "2026-04-15 17:05:31"
+      },
+      {
+        "corrected_from": "TWO_FINGERS",
+        "corrected_to": "thoda sa",
+        "timestamp": "2026-04-15 17:06:37"
+      }
+    ]
+  },
+  "Right:TWO_FINGERS": {
+    "base_prediction": "TWO_FINGERS",
+    "learned_meaning": "FUCKKKKKKKKKKKKK",
+    "corrections": 1,
+    "first_seen": "2026-04-15 17:07:27",
+    "last_updated": "2026-04-15 17:07:27",
+    "history": [
+      {
+        "corrected_from": "TWO_FINGERS",
+        "corrected_to": "FUCKKKKKKKKKKKKK",
+        "timestamp": "2026-04-15 17:07:27"
+      }
+    ]
+  },
+  "Left:FIST": {
+    "base_prediction": "FIST",
+    "learned_meaning": "Go this way",
+    "corrections": 1,
+    "first_seen": "2026-04-15 19:36:01",
+    "last_updated": "2026-04-15 19:36:01",
+    "history": [
+      {
+        "corrected_from": "FIST",
+        "corrected_to": "Go this way",
+        "timestamp": "2026-04-15 19:36:01"
+      }
+    ]
+  }
+}
