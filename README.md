@@ -131,7 +131,7 @@ AdaptiveSign-AI/
 
 ### **1. Clone Repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/AdaptiveSign-AI.git
+git clone https://github.com/ankit02s/AdaptiveSign-AI.git
 cd AdaptiveSign-AI
 ```
 
@@ -485,8 +485,8 @@ Allows free use with attribution.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
+- GitHub: [@ankit02s](https://github.com/ankit02s)
+- Email: sharmaankit926300@gmail.com
 
 ---
 
@@ -500,9 +500,9 @@ Allows free use with attribution.
 
 ## 📞 Support & Contact
 
-- 🐛 **Found a bug?** [Open an Issue](https://github.com/YOUR_USERNAME/AdaptiveSign-AI/issues)
-- 💡 **Have an idea?** [Start a Discussion](https://github.com/YOUR_USERNAME/AdaptiveSign-AI/discussions)
-- 📧 **Questions?** Email: your.email@example.com
+- 🐛 **Found a bug?** [Open an Issue](https://github.com/ankit02s/AdaptiveSign-AI/issues)
+- 💡 **Have an idea?** [Start a Discussion](https://github.com/ankit02s/AdaptiveSign-AI/discussions)
+- 📧 **Questions?** Email: sharmaankit926300@gmail.com
 
 ---
 
@@ -537,7 +537,7 @@ The future of AI is not static intelligence—it's adaptive intelligence that gr
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR_USERNAME/AdaptiveSign-AI.git
+git clone https://github.com/ankit02s/AdaptiveSign-AI.git
 
 # 2. Setup
 cd AdaptiveSign-AI
