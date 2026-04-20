@@ -1,6 +1,6 @@
 # 🤝 Contributing to ANNI
 
-First off, thank you for considering contributing to ANNI! It's people like you that make ANNI such a great tool.
+First off, thank you for considering contributing to AdaptiveSign-AI! It's people like you that make AdaptiveSign-AI such a great tool.
 
 ## 📋 Code of Conduct
 
@@ -15,7 +15,7 @@ Click the "Fork" button at the top right of the repository page.
 
 ### **2. Clone Your Fork**
 ```bash
-git clone https://github.com/YOUR_USERNAME/ANNI.git
+git clone https://github.com/ankit02s/ANNI.git
 cd ANNI
 ```
 
@@ -354,6 +354,6 @@ Feel free to:
 
 ---
 
-**Thank you for contributing to ANNI! 🚀**
+**Thank you for contributing to AdaptiveSign-AI! 🚀**
 
 *Happy coding! If you have any questions, feel free to reach out.*
