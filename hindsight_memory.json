@@ -1,0 +1,86 @@
+{
+  "(1, 1, 1, 1, 1)": {
+    "base_prediction": "CHILL",
+    "learned_meaning": "wait",
+    "corrections": 1,
+    "first_seen": "2026-04-20 06:30:23",
+    "last_updated": "2026-04-20 06:30:23",
+    "history": [
+      {
+        "corrected_from": "CHILL",
+        "corrected_to": "wait",
+        "timestamp": "2026-04-20 06:30:23"
+      }
+    ]
+  },
+  "(0, 1, 1, 0, 0)": {
+    "base_prediction": "PEACE",
+    "learned_meaning": "victory",
+    "corrections": 1,
+    "first_seen": "2026-04-20 06:30:49",
+    "last_updated": "2026-04-20 06:30:49",
+    "history": [
+      {
+        "corrected_from": "PEACE",
+        "corrected_to": "victory",
+        "timestamp": "2026-04-20 06:30:49"
+      }
+    ]
+  },
+  "(1, 1, 0, 0, 0)": {
+    "base_prediction": "PINCH",
+    "learned_meaning": "love",
+    "corrections": 1,
+    "first_seen": "2026-04-20 06:31:17",
+    "last_updated": "2026-04-20 06:31:17",
+    "history": [
+      {
+        "corrected_from": "PINCH",
+        "corrected_to": "love",
+        "timestamp": "2026-04-20 06:31:17"
+      }
+    ]
+  },
+  "(1, 1, 0, 0, 1)": {
+    "base_prediction": "VULCAN",
+    "learned_meaning": "rockk",
+    "corrections": 1,
+    "first_seen": "2026-04-20 06:31:24",
+    "last_updated": "2026-04-20 06:31:24",
+    "history": [
+      {
+        "corrected_from": "VULCAN",
+        "corrected_to": "rockk",
+        "timestamp": "2026-04-20 06:31:24"
+      }
+    ]
+  },
+  "(1, 0, 1, 1, 1)": {
+    "base_prediction": "FOUR_FINGERS",
+    "learned_meaning": "good",
+    "corrections": 1,
+    "first_seen": "2026-04-20 10:01:08",
+    "last_updated": "2026-04-20 10:01:08",
+    "history": [
+      {
+        "corrected_from": "FOUR_FINGERS",
+        "corrected_to": "good",
+        "timestamp": "2026-04-20 10:01:08"
+      }
+    ]
+  },
+  "(1, 0, 0, 0, 0)": {
+    "base_prediction": "THUMBS_UP",
+    "learned_meaning": "thinking",
+    "corrections": 1,
+    "first_seen": "2026-04-20 10:03:49",
+    "last_updated": "2026-04-20 10:03:49",
+    "history": [
+      {
+        "corrected_from": "THUMBS_UP",
+        "corrected_to": "thinking",
+        "timestamp": "2026-04-20 10:03:49"
+      }
+    ]
+  }
+}

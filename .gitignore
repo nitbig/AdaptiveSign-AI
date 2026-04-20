@@ -1,0 +1,98 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+.ENV
+.env
+
+# Python Cache & Compiled
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+*.sublime-project
+*.sublime-workspace
+
+# OS Files
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+*.lnk
+
+# Logs
+*.log
+*.logs
+debug.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Optional: Exclude large model files if syncing with cloud
+# Uncomment if you want to keep models in repo:
+# hand_landmarker.task
+# face_landmarker.task
+
+# Local configuration
+.env.local
+config.local.json
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+temp/
+tmp/
+
+# Media files (optional - uncomment if needed)
+# *.mp4
+# *.avi
+# *.mov
+# *.jpg
+# *.png
+
+# Dependencies (if using poetry/pipenv)
+poetry.lock
+Pipfile.lock
